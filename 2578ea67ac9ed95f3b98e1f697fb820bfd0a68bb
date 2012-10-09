@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAY3///J4\u003d",
+        "filename": "AutoParts/res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-10-09T16:00:02Z",
+      "side": 1,
+      "message": "Bitte whitespace entfernen",
+      "revId": "2578ea67ac9ed95f3b98e1f697fb820bfd0a68bb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

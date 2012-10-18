@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAaH///WI\u003d",
+        "filename": "device_tf700t.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2012-10-18T11:26:49Z",
+      "side": 1,
+      "message": "s/have/has/",
+      "revId": "93badee24493b225001157bc32a5f8bc3049e2b3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH///WM\u003d",
+        "filename": "device_tf700t.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2012-10-18T11:26:49Z",
+      "side": 1,
+      "message": "s/propertys/properties/",
+      "revId": "93badee24493b225001157bc32a5f8bc3049e2b3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

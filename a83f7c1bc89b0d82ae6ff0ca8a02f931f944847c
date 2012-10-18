@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAaH///UE\u003d",
+        "filename": "device_tf700t.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2012-10-18T15:26:21Z",
+      "side": 1,
+      "message": "proprietary.",
+      "revId": "a83f7c1bc89b0d82ae6ff0ca8a02f931f944847c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

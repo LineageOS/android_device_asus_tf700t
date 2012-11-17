@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3//79M\u003d",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 209,
+      "author": {
+        "id": 4311
+      },
+      "writtenOn": "2012-11-17T01:57:13Z",
+      "side": 1,
+      "message": "Diable? You meant Enable?",
+      "revId": "9544b8b8cbb6820b511372cb78d3a4b54c857b79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

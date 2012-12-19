@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAbH//9d4\u003d",
+        "filename": "bluetooth/bdroid_buildcfg.h",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1381
+      },
+      "writtenOn": "2012-12-19T20:13:54Z",
+      "side": 1,
+      "message": "This is the default bluetooth name shown to the user, should to set to the manufacturer + model name.",
+      "revId": "33b93c828deae83b595c9867b8559f2054a43783",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

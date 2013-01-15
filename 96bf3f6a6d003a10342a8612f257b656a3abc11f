@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcn//9C0\u003d",
+        "filename": "AutoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-01-15T05:57:18Z",
+      "side": 1,
+      "message": "Or \"Descarga de ... \" or \"... satelital, puede ayudar a mejorar ...\"",
+      "revId": "96bf3f6a6d003a10342a8612f257b656a3abc11f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//9DA\u003d",
+        "filename": "AutoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-01-15T05:57:18Z",
+      "side": 1,
+      "message": "\"Sólo...\" with accent.",
+      "revId": "96bf3f6a6d003a10342a8612f257b656a3abc11f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//9C8\u003d",
+        "filename": "AutoParts/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-01-15T05:57:18Z",
+      "side": 1,
+      "message": "\"...sólo...\" Same above.\n\nAlthough the RAE allows use without an accent, it is preferable to use to avoid confusion. See: http://www.elmundo.es/elmundo/2013/01/09/cultura/1357735373.html",
+      "revId": "96bf3f6a6d003a10342a8612f257b656a3abc11f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

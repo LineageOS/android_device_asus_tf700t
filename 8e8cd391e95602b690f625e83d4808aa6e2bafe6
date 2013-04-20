@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//4iQ\u003d",
+        "filename": "AutoParts/res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2013-04-20T04:41:11Z",
+      "side": 1,
+      "message": "Cette ligne est en anglais.",
+      "revId": "8e8cd391e95602b690f625e83d4808aa6e2bafe6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

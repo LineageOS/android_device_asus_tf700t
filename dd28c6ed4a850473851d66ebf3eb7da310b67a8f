@@ -16,6 +16,24 @@
       "revId": "dd28c6ed4a850473851d66ebf3eb7da310b67a8f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfX//+YY\u003d",
+        "filename": "AutoParts/res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-05-05T15:58:15Z",
+      "side": 1,
+      "message": "Is er een reden waarom je het in die specifieke volgorde wilt hebben? CPU-energiestanden ziet er mooier uit, vind ik.",
+      "parentUuid": "AAAAfX//+iA\u003d",
+      "revId": "dd28c6ed4a850473851d66ebf3eb7da310b67a8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "hstXYck",
+        "filename": "AutoParts/res/values-cs/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 3875
+      },
+      "writtenOn": "2013-05-17T04:15:13Z",
+      "side": 1,
+      "message": "? asi zapomnel :)",
+      "revId": "a080a3b2c2396ec9f4c7b5275a746c9eb527e78e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

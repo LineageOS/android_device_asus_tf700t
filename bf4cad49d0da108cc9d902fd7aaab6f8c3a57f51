@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "hmM08d0",
+        "filename": "AutoParts/res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-05-19T19:24:19Z",
+      "side": 1,
+      "message": "Touches fonction, sans majuscule",
+      "revId": "bf4cad49d0da108cc9d902fd7aaab6f8c3a57f51",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

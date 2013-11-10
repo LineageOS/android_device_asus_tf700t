@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa1b9901_b51d7711",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 3556
+      },
+      "writtenOn": "2013-11-10T13:54:00Z",
+      "side": 1,
+      "message": "If you are going to do this you would need to add grouper to the cm.dependencies to ensure it was synched.",
+      "revId": "a97c67121783032b81ddddf9bb179c564e7f1d16",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
